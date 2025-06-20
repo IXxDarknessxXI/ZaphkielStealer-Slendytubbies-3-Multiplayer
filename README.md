@@ -19,6 +19,7 @@ $start explorer:    Vuelve a iniciar el explorer.exe, restaurando el entorno de 
 $resetacc:  Resetear las estadisticas de tu cuenta ZeoWorks.
 $quit:  Cerrar el juego.
 
+## Este programa solo funciona si la webhook que se utiliza es de Guilded (por alguna razon no funciona con una webhook de discord)
 ## Este programa solo funciona si se mete a una carpeta de Mods creada por MelonLoader y se ejecuta el juego.
 
 Recordar escribir la webhook en la linea 603 de la ICBMPro Core (esto lo puedes editar usando programas como DnSpy); podes hacer esto si presionas con click derecho en esta linea y le das a Editar Instrucciones IL
