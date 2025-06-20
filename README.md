@@ -1,5 +1,8 @@
 # ZaphkielStealer-Slendytubbies-3-Multiplayer
-***Información acerca de este programa: ***
+## Información General:
+ZaphkielStealer es un stealer creado por ZaphkielSquad con el objetivo de disminuir la cantidad de cheaters en el juego (Slendytubbies 3 Multiplayer), este stealer ha ido evolucionando con el paso del tiempo y ha llegado hasta poder sacar tokens de discord (que lamentablemente esa función ya no la trae). A continuación les daré los detalles acerca de este programa.
+
+## Información acerca de este programa:
 
 - Saca información acerca de la cuenta ZeoWorks. (Con esto podes sacar el gmail del infectado)
 - Roba skin del usuario
