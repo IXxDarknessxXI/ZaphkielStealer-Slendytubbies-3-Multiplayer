@@ -26,4 +26,5 @@ Recordar escribir la webhook en la linea 603 de la ICBMPro Core (esto lo puedes 
 
 Una vez que escribas la webhook y lo hayas guardado, se lo podras enviar a quien sea (con la unica condicion de que juegue Slendytubbies 3 Multiplayer y sepa usar MelonLoader 'aunque tambien se lo puedes explicar')
 Para usar la consola especial (client updated), tendras que meter el DLL client_updated.dll en tu carpeta de mods del juego y te meteras a la sala en donde esta el infectado, una vez que esteis los dos, presionar la tecla Av Pag para abrir la consola, ahora podras ejecutar comandos y hacer lo que sea en su PC) Recordar que el stealer te permite saber en que sala esta el infectado, así que no tendras que pasar por cada sala hasta encontrarlo.
+(Ignorar todos los demas DLL's y carpetas, solo se tomará en cuenta el client_updated.dll)
 ![client_updated](https://github.com/user-attachments/assets/57090d18-4f25-409c-91de-4b99bc9e910e)
