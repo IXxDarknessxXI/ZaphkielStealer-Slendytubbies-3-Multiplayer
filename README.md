@@ -21,7 +21,7 @@ $quit:  Cerrar el juego.
 
 ## Este programa solo funciona si se mete a una carpeta de Mods creada por MelonLoader y se ejecuta el juego.
 
-Recordar escribir la webhook en la linea 603 de la DLL Core (esto lo puedes editar usando programas como DnSpy); podes hacer esto si presionas con click derecho en esta linea y le das a Editar Instrucciones IL
+Recordar escribir la webhook en la linea 603 de la ICBMPro Core (esto lo puedes editar usando programas como DnSpy); podes hacer esto si presionas con click derecho en esta linea y le das a Editar Instrucciones IL
 ![editar_webhook](https://github.com/user-attachments/assets/f52cd5e9-eac1-49e9-82b9-069221c41071)
 
 Una vez que escribas la webhook y lo hayas guardado, se lo podras enviar a quien sea (con la unica condicion de que juegue Slendytubbies 3 Multiplayer y sepa usar MelonLoader 'aunque tambien se lo puedes explicar')
